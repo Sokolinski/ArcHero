@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: colored_tilemap_111
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 1788319252, guid: de710e26897e17c40a7ffcc4b96f0063, type: 3}
+  m_Sprite: {fileID: 276912549, guid: 98757dfa3878e27469c31c1e801648ed, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
